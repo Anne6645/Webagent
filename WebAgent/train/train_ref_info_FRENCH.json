@@ -1,0 +1,2119 @@
+{
+  "Attractions in Rockford": [
+    {
+      "Name": "Burpee Museum of Natural History",
+      "Latitude": 42.2773242,
+      "Longitude": -89.08814249999999,
+      "Address": "737 N Main St, Rockford, IL 61103, USA",
+      "Phone": "(815) 965-3433",
+      "Website": "http://www.burpee.org/",
+      "City": "Rockford"
+    },
+    {
+      "Name": "Musée du village de Midway",
+      "Latitude": 42.2804989,
+      "Longitude": -88.98463989999999,
+      "Address": "6799 Guilford Rd, Rockford, IL 61107, États-Unis",
+      "Phone": "(815) 397-9112",
+      "Website": "https://www.midwayvillage.com/",
+      "City": "Rockford"
+    },
+    {
+      "Name": "Discovery Center Museum",
+      "Latitude": 42.2771046,
+      "Longitude": -89.0894304,
+      "Address": "711 N Main St, Rockford, IL 61103, États-Unis",
+      "Phone": "(815) 963-6769",
+      "Website": "http://www.discoverycenttermuseum.org/",
+      "City": "Rockford"
+    },
+    {
+      "Name": "Tinker Swiss Cottage Museum and Gardens",
+      "Latitude": 42.26411,
+      "Longitude": -89.102796,
+      "Address": "411 Kent St, Rockford, IL 61102, États-Unis",
+      "Phone": "(815) 964-2424",
+      "Website": "http://www.tinkercottage.com/",
+      "City": "Rockford"
+    },
+    {
+      "Name": "Jardins japonais Anderson",
+      "Latitude": 42.2900539,
+      "Longitude": -89.05779539999999,
+      "Address": "318 Spring Creek Rd, Rockford, IL 61107, États-Unis",
+      "Phone": "(815) 229-9390",
+      "Website": "http://andersongardens.org/",
+      "City": "Rockford"
+    },
+    {
+      "Name": "Conservatoire et jardins de Nicholas",
+      "Latitude": 42.28229330000001,
+      "Longitude": -89.0707044,
+      "Address": "1354 N 2nd St, Rockford, IL 61107, États-Unis",
+      "Phone": "(815) 987-8858",
+      "Website": "http://www.nicholassonservatory.com/",
+      "City": "Rockford"
+    },
+    {
+      "Name": "Erlander Home Museum",
+      "Latitude": 42.26409779999999,
+      "Longitude": -89.08869279999999,
+      "Address": "404 S 3rd St, Rockford, IL 61104, États-Unis",
+      "Phone": "(815) 963-5559",
+      "Website": "http://www.swedishhistorical.org/",
+      "City": "Rockford"
+    },
+    {
+      "Name": "Musée du patrimoine ethnique",
+      "Latitude": 42.2611002,
+      "Longitude": -89.100915,
+      "Address": "1129 S Main St, Rockford, IL 61101, États-Unis",
+      "Phone": "(815) 962-7402",
+      "Website": "https://www.ethnicheritagemuseum.org/",
+      "City": "Rockford"
+    },
+    {
+      "Name": "Parc Assispip",
+      "Latitude": 42.2827292,
+      "Longitude": -89.0641156,
+      "Address": "1401 N 2nd St, Rockford, IL 61107, États-Unis",
+      "Phone": "(815) 987-8858",
+      "Website": "http://rockfordparkdistrict.org/ncg",
+      "City": "Rockford"
+    },
+    {
+      "Name": "Klehm arboretum et jardin botanique",
+      "Latitude": 42.2444523,
+      "Longitude": -89.11254020000001,
+      "Address": "2715 S Main St, Rockford, IL 61102, États-Unis",
+      "Phone": "(815) 965-8146",
+      "Website": "http://www.klehm.org/",
+      "City": "Rockford"
+    },
+    {
+      "Name": "Davis Park à Founders Landing",
+      "Latitude": 42.26825019999999,
+      "Longitude": -89.0953792,
+      "Address": "320 S Wyman St, Rockford, IL 61101, États-Unis",
+      "Phone": "(815) 968-5600",
+      "Website": "https://www.gorockford.com/litetings/davis-park-at-founders-landing/275/",
+      "City": "Rockford"
+    },
+    {
+      "Name": "La maison Laurent de Frank Lloyd Wright",
+      "Latitude": 42.2998334,
+      "Longitude": -89.0243617,
+      "Address": "4646 Spring Brook Rd, Rockford, IL 61114, États-Unis",
+      "Phone": "(815) 877-2952",
+      "Website": "http://www.laurenthouse.com/",
+      "City": "Rockford"
+    },
+    {
+      "Name": "Jardins",
+      "Latitude": 42.2840305,
+      "Longitude": -89.0679007,
+      "Address": "1354 N 2nd St, Rockford, IL 61107, États-Unis",
+      "Phone": "(815) 987-8858",
+      "Website": "https://nicholasconservatory.com/",
+      "City": "Rockford"
+    },
+    {
+      "Name": "Parc du musée du rivière",
+      "Latitude": 42.2768431,
+      "Longitude": -89.0888593,
+      "Address": "Ste 3, 711 N Main St, Rockford, IL 61103, USA",
+      "Phone": "(815) 962-0105",
+      "Website": "Inconnu",
+      "City": "Rockford"
+    },
+    {
+      "Name": "Parc Searls",
+      "Latitude": 42.3006848,
+      "Longitude": -89.1241445,
+      "Address": "4950 Safford Rd, Rockford, IL 61101, USA",
+      "Phone": "(815) 987-8800",
+      "Website": "http://rockfordparkdistrict.org/",
+      "City": "Rockford"
+    },
+    {
+      "Name": "La colombe des jardins",
+      "Latitude": 42.2936707,
+      "Longitude": -89.0346172,
+      "Address": "3622 Brookview Rd, Rockford, IL 61107, États-Unis",
+      "Phone": "(815) 399-0324",
+      "Website": "http://www.lapalomagardens.com/",
+      "City": "Rockford"
+    },
+    {
+      "Name": "Rockford Park District",
+      "Latitude": 42.268422,
+      "Longitude": -89.0972335,
+      "Address": "401 S Main St, Rockford, IL 61101, USA",
+      "Phone": "(815) 987-8800",
+      "Website": "https://rockfordparkdistrict.org/",
+      "City": "Rockford"
+    },
+    {
+      "Name": "Parties du parc",
+      "Latitude": 42.2740598,
+      "Longitude": -89.0227687,
+      "Address": "623 N Alpine Rd, Rockford, IL 61107, États-Unis",
+      "Phone": "Inconnu",
+      "Website": "https://www.rockfordparkdistrict.org/",
+      "City": "Rockford"
+    },
+    {
+      "Name": "Blackhawk Springs Forest Preserve",
+      "Latitude": 42.2046939,
+      "Longitude": -88.9916363,
+      "Address": "5360 Mulford Road &, 5801 Perryville Rd, Rockford, IL 61109, USA",
+      "Phone": "(815) 877-6100",
+      "Website": "http://winnebagoforest.org/preserves/blackhawk-springs/",
+      "City": "Rockford"
+    },
+    {
+      "Name": "Ingersoll Centennial Park",
+      "Latitude": 42.2662975,
+      "Longitude": -89.09143920000001,
+      "Address": "315 S 1st St, Rockford, IL 61104, USA",
+      "Phone": "(815) 987-8800",
+      "Website": "http://rockfordparkdistrict.org/",
+      "City": "Rockford"
+    }
+  ],
+  "Restaurants in Rockford": [
+    {
+      "Name": "Coco bambou",
+      "Average Cost": 72,
+      "Cuisines": "Thé, français, boulangerie, barbecue, café",
+      "Aggregate Rating": 4.9,
+      "City": "Rockford"
+    },
+    {
+      "Name": "Mangue volante",
+      "Average Cost": 20,
+      "Cuisines": "Américain, barbecue, fruits de mer",
+      "Aggregate Rating": 4.5,
+      "City": "Rockford"
+    },
+    {
+      "Name": "Gajalee Sea Food",
+      "Average Cost": 49,
+      "Cuisines": "Boulangerie, barbecue",
+      "Aggregate Rating": 3.9,
+      "City": "Rockford"
+    },
+    {
+      "Name": "Shree Balaji Chaat Bhandar",
+      "Average Cost": 97,
+      "Cuisines": "Français, boulangerie, barbecue, italien",
+      "Aggregate Rating": 3.2,
+      "City": "Rockford"
+    },
+    {
+      "Name": "Doit être Arabica",
+      "Average Cost": 43,
+      "Cuisines": "Thé, boulangerie, indien, restauration rapide",
+      "Aggregate Rating": 3.5,
+      "City": "Rockford"
+    },
+    {
+      "Name": "Journée du café du café",
+      "Average Cost": 28,
+      "Cuisines": "Chinois, desserts, pizza, café, Méditerranée",
+      "Aggregate Rating": 0,
+      "City": "Rockford"
+    },
+    {
+      "Name": "Nutri Punch",
+      "Average Cost": 34,
+      "Cuisines": "Thé, chinois, café, desserts",
+      "Aggregate Rating": 4,
+      "City": "Rockford"
+    },
+    {
+      "Name": "Cafe Southall",
+      "Average Cost": 56,
+      "Cuisines": "Fruits de mer, pizza, café, restauration rapide",
+      "Aggregate Rating": 4.2,
+      "City": "Rockford"
+    },
+    {
+      "Name": "Eggspectation - Jaypee Vasant Continental",
+      "Average Cost": 77,
+      "Cuisines": "Thé, méditerranéen, fruits de mer",
+      "Aggregate Rating": 3.6,
+      "City": "Rockford"
+    },
+    {
+      "Name": "Arôme repos o bar",
+      "Average Cost": 58,
+      "Cuisines": "Boulangerie, restauration rapide, chinois, américaine, fruits de mer",
+      "Aggregate Rating": 3.6,
+      "City": "Rockford"
+    },
+    {
+      "Name": "Boulangerie avancée",
+      "Average Cost": 100,
+      "Cuisines": "Desserts, pizza, mexicain, boulangerie, chinois, fruits de mer",
+      "Aggregate Rating": 2.9,
+      "City": "Rockford"
+    },
+    {
+      "Name": "Faire un gâteau",
+      "Average Cost": 29,
+      "Cuisines": "Café, américain, méditerranéen, desserts",
+      "Aggregate Rating": 0,
+      "City": "Rockford"
+    },
+    {
+      "Name": "Tu aimes",
+      "Average Cost": 32,
+      "Cuisines": "Thé, français, desserts",
+      "Aggregate Rating": 0,
+      "City": "Rockford"
+    },
+    {
+      "Name": "Métro",
+      "Average Cost": 42,
+      "Cuisines": "Thé, chinois, pizza",
+      "Aggregate Rating": 3.4,
+      "City": "Rockford"
+    },
+    {
+      "Name": "Centre Sweet Aggarwal",
+      "Average Cost": 81,
+      "Cuisines": "Desserts, thé, italien, boulangerie, café",
+      "Aggregate Rating": 0,
+      "City": "Rockford"
+    },
+    {
+      "Name": "Aggarwal Sweets Center",
+      "Average Cost": 73,
+      "Cuisines": "Restauration rapide, chinois, barbecue, italien",
+      "Aggregate Rating": 0,
+      "City": "Rockford"
+    },
+    {
+      "Name": "Giri Momos Center et restauration rapide chinoise",
+      "Average Cost": 44,
+      "Cuisines": "Café, indien, fruits de mer",
+      "Aggregate Rating": 2.4,
+      "City": "Rockford"
+    },
+    {
+      "Name": "M. Confectioner - Pride Plaza Hotel",
+      "Average Cost": 74,
+      "Cuisines": "Boulangerie, desserts",
+      "Aggregate Rating": 0,
+      "City": "Rockford"
+    },
+    {
+      "Name": "Devrait être",
+      "Average Cost": 98,
+      "Cuisines": "Boulangerie, desserts, fruits de mer",
+      "Aggregate Rating": 0,
+      "City": "Rockford"
+    },
+    {
+      "Name": "Coin de nourriture chinoise de Hangchuaa",
+      "Average Cost": 64,
+      "Cuisines": "Thé, barbecue, fruits de mer",
+      "Aggregate Rating": 3.1,
+      "City": "Rockford"
+    },
+    {
+      "Name": "Grappa - Shangri-La's - Eros Hotel",
+      "Average Cost": 21,
+      "Cuisines": "Boulangerie, desserts, italien",
+      "Aggregate Rating": 3.4,
+      "City": "Rockford"
+    },
+    {
+      "Name": "Nouveau Bhappe de Hatti",
+      "Average Cost": 76,
+      "Cuisines": "Fruits de mer, mexicains, barbecue, restauration rapide",
+      "Aggregate Rating": 0,
+      "City": "Rockford"
+    },
+    {
+      "Name": "Dunkin 'Donuts",
+      "Average Cost": 24,
+      "Cuisines": "Café, boulangerie, barbecue, fruits de mer",
+      "Aggregate Rating": 0,
+      "City": "Rockford"
+    },
+    {
+      "Name": "Métro",
+      "Average Cost": 26,
+      "Cuisines": "Boulangerie, pizza, barbecue, desserts",
+      "Aggregate Rating": 3.8,
+      "City": "Rockford"
+    },
+    {
+      "Name": "La cabane gastronomique",
+      "Average Cost": 77,
+      "Cuisines": "Thé, pizza, indien, restauration rapide",
+      "Aggregate Rating": 3.3,
+      "City": "Rockford"
+    },
+    {
+      "Name": "Mirchievous",
+      "Average Cost": 64,
+      "Cuisines": "Américain, indien, barbecue, fruits de mer",
+      "Aggregate Rating": 3.1,
+      "City": "Rockford"
+    },
+    {
+      "Name": "Chaophraya",
+      "Average Cost": 74,
+      "Cuisines": "Chinois, pizza, café, desserts",
+      "Aggregate Rating": 3.9,
+      "City": "Rockford"
+    }
+  ],
+  "Accommodations in Rockford": [
+    {
+      "NAME": "Emplacement privilégié spacieux de 3BDR!",
+      "price": 1030,
+      "room type": "Maison entière / apt",
+      "house_rules": "Interdiction de fumer",
+      "minimum nights": 2,
+      "maximum occupancy": 9,
+      "review rate number": 2,
+      "city": "Rockford"
+    },
+    {
+      "NAME": "Chambre privée dans un apt de deux chambres.",
+      "price": 210,
+      "room type": "Chambre privée",
+      "house_rules": "Pas de visiteurs et pas de fumer",
+      "minimum nights": 1,
+      "maximum occupancy": 2,
+      "review rate number": 4,
+      "city": "Rockford"
+    },
+    {
+      "NAME": "Chambres privées et emplacement incomparable",
+      "price": 1075,
+      "room type": "Chambre privée",
+      "house_rules": "Pas d'animaux et pas de fêtes",
+      "minimum nights": 2,
+      "maximum occupancy": 2,
+      "review rate number": 2,
+      "city": "Rockford"
+    },
+    {
+      "NAME": "Park Side Zen Home - Terrace et à côté de Centralpark",
+      "price": 250,
+      "room type": "Maison entière / apt",
+      "house_rules": "Pas d'enfants de moins de 10 ans",
+      "minimum nights": 3,
+      "maximum occupancy": 3,
+      "review rate number": 3,
+      "city": "Rockford"
+    },
+    {
+      "NAME": "Lux 2 chambres NYC apt sur la rivière Hudson!",
+      "price": 737,
+      "room type": "Maison entière / apt",
+      "house_rules": "Interdiction de fumer",
+      "minimum nights": 30,
+      "maximum occupancy": 4,
+      "review rate number": 5,
+      "city": "Rockford"
+    },
+    {
+      "NAME": "Appartement moderne de 1 chambre à Fordham",
+      "price": 377,
+      "room type": "Maison entière / apt",
+      "house_rules": "Pas d'animaux",
+      "minimum nights": 7,
+      "maximum occupancy": 2,
+      "review rate number": 5,
+      "city": "Rockford"
+    },
+    {
+      "NAME": "Chambre privée à Bedstuy!",
+      "price": 1107,
+      "room type": "Chambre privée",
+      "house_rules": "Interdiction de fumer",
+      "minimum nights": 10,
+      "maximum occupancy": 1,
+      "review rate number": 4,
+      "city": "Rockford"
+    },
+    {
+      "NAME": "Luxury pur un bdrm + canapé-lit sur Central Park",
+      "price": 243,
+      "room type": "Maison entière / apt",
+      "house_rules": "Pas de fumer et pas de fêtes",
+      "minimum nights": 2,
+      "maximum occupancy": 3,
+      "review rate number": 3,
+      "city": "Rockford"
+    },
+    {
+      "NAME": "Charmant studio au cœur d'Astoria",
+      "price": 519,
+      "room type": "Maison entière / apt",
+      "house_rules": "Pas de fêtes",
+      "minimum nights": 4,
+      "maximum occupancy": 4,
+      "review rate number": 4,
+      "city": "Rockford"
+    },
+    {
+      "NAME": "Le cœur de Brooklyn",
+      "price": 154,
+      "room type": "Maison entière / apt",
+      "house_rules": "Pas d'enfants de moins de 10 ans et pas de visiteurs et pas d'animaux",
+      "minimum nights": 30,
+      "maximum occupancy": 3,
+      "review rate number": 2,
+      "city": "Rockford"
+    },
+    {
+      "NAME": "Chambre Stuyvesant privée Madison 1R-2",
+      "price": 395,
+      "room type": "Chambre privée",
+      "house_rules": "Pas de parties et pas d'enfants de moins de 10 ans",
+      "minimum nights": 30,
+      "maximum occupancy": 2,
+      "review rate number": 3,
+      "city": "Rockford"
+    },
+    {
+      "NAME": "Grande chambre ensoleillée dans le quartier vivant de Brooklyn",
+      "price": 440,
+      "room type": "Chambre privée",
+      "house_rules": "Pas d'animaux et pas de fumer",
+      "minimum nights": 14,
+      "maximum occupancy": 2,
+      "review rate number": 3,
+      "city": "Rockford"
+    },
+    {
+      "NAME": "Midtown 2 lit United Nations Loc, Full Kitchen",
+      "price": 245,
+      "room type": "Maison entière / apt",
+      "house_rules": "Pas de visiteurs",
+      "minimum nights": 3,
+      "maximum occupancy": 3,
+      "review rate number": 4,
+      "city": "Rockford"
+    }
+  ],
+  "Flight from St. Petersburg to Rockford on 2022-03-16": [
+    {
+      "Flight Number": "F3573659",
+      "Price": 474,
+      "DepTime": "15:40",
+      "ArrTime": "17:04",
+      "ActualElapsedTime": "2 heures 24 minutes",
+      "FlightDate": "2022-03-16",
+      "OriginCityName": "Saint-Pétersbourg",
+      "DestCityName": "Rockford",
+      "Distance": 1049
+    }
+  ],
+  "Self-driving from St. Petersburg to Rockford": "Aucune information valide.",
+  "Taxi from St. Petersburg to Rockford": "Aucune information valide.",
+  "Flight from Rockford to St. Petersburg on 2022-03-18": [
+    {
+      "Flight Number": "F3573120",
+      "Price": 346,
+      "DepTime": "19:00",
+      "ArrTime": "22:43",
+      "ActualElapsedTime": "2 heures 43 minutes",
+      "FlightDate": "2022-03-18",
+      "OriginCityName": "Rockford",
+      "DestCityName": "Saint-Pétersbourg",
+      "Distance": 1049
+    }
+  ],
+  "Self-driving from Rockford to St. Petersburg": "Aucune information valide.",
+  "Taxi from Rockford to St. Petersburg": "Aucune information valide.",
+  "Attractions in Pensacola": [
+    {
+      "Name": "Village historique de Pensacola",
+      "Latitude": 30.40874519999999,
+      "Longitude": -87.2130784,
+      "Address": "205 E Zaragoza St, Pensacola, FL 32502, États-Unis",
+      "Phone": "(850) 595-5993",
+      "Website": "http://www.historicpensacola.org/",
+      "City": "Pensacola"
+    },
+    {
+      "Name": "Pensacola Museum of Art",
+      "Latitude": 30.4079585,
+      "Longitude": -87.213443,
+      "Address": "407 S Jefferson St, Pensacola, FL 32502, États-Unis",
+      "Phone": "(850) 432-6247",
+      "Website": "http://www.pensacolamuseum.org/",
+      "City": "Pensacola"
+    },
+    {
+      "Name": "Palafox Street Downtown Pensacola",
+      "Latitude": 30.4156547,
+      "Longitude": -87.2158627,
+      "Address": "200 N Palafox St, Pensacola, FL 32502, États-Unis",
+      "Phone": "Inconnu",
+      "Website": "http://visitpensacola.com/",
+      "City": "Pensacola"
+    },
+    {
+      "Name": "Monument Memorial Luna Plaza",
+      "Latitude": 30.402506,
+      "Longitude": -87.2130128,
+      "Address": "900 avec Palafox St, Pensacola, FL 32502, États-Unis",
+      "Phone": "(850) 436-5670",
+      "Website": "https://www.cityofpensacola.com/facilities/factility/details/plazadeluna-75",
+      "City": "Pensacola"
+    },
+    {
+      "Name": "Le pont de graffitis",
+      "Latitude": 30.420402,
+      "Longitude": -87.193888,
+      "Address": "N 17th Ave, Pensacola, FL 32502, États-Unis",
+      "Phone": "(850) 361-9306",
+      "Website": "http://thegraffitibridge.com/",
+      "City": "Pensacola"
+    },
+    {
+      "Name": "Pensacola Children's Museum",
+      "Latitude": 30.408296,
+      "Longitude": -87.2127429,
+      "Address": "115 Zaragoza St, Pensacola, FL 32502, États-Unis",
+      "Phone": "(850) 595-1559",
+      "Website": "http://www.historicpensacola.org/plan-your-visit/museums-properties/pensacola-childrens-museum/",
+      "City": "Pensacola"
+    },
+    {
+      "Name": "Devenir rétro",
+      "Latitude": 30.4196742,
+      "Longitude": -87.21960759999999,
+      "Address": "610 N Spring St, Pensacola, FL 32501, États-Unis",
+      "Phone": "(850) 466-5220",
+      "Website": "http://www.goretro.us/",
+      "City": "Pensacola"
+    },
+    {
+      "Name": "Musée du commerce",
+      "Latitude": 30.4085519,
+      "Longitude": -87.21147859999999,
+      "Address": "201 Zaragoza St, Pensacola, FL 32502, États-Unis",
+      "Phone": "(850) 595-5985",
+      "Website": "https://historicpensacola.org/plan-your-visit/museums-properties/museum-of-commerce/",
+      "City": "Pensacola"
+    },
+    {
+      "Name": "Le musée de la maison Quina",
+      "Latitude": 30.41104139999999,
+      "Longitude": -87.2093412,
+      "Address": "204 S Alcaniz St, Pensacola, FL 32502, États-Unis",
+      "Phone": "(850) 432-3050",
+      "Website": "https://pensacolahistoricpreservationsociety.com/quinahouse",
+      "City": "Pensacola"
+    },
+    {
+      "Name": "Bay Bluffs Park",
+      "Latitude": 30.45511870000001,
+      "Longitude": -87.1684993,
+      "Address": "3400 Scenic Hwy, Pensacola, FL 32503, États-Unis",
+      "Phone": "(850) 435-1603",
+      "Website": "http://cityofpensacola.com/facilities/factility/details/bay-bluffs-preserve-18",
+      "City": "Pensacola"
+    },
+    {
+      "Name": "Pensacola mess Hall",
+      "Latitude": 30.418049,
+      "Longitude": -87.210194,
+      "Address": "418 E Wright St, Pensacola, FL 32502, États-Unis",
+      "Phone": "(877) 937-6377",
+      "Website": "http://www.pensacolamesshall.org/",
+      "City": "Pensacola"
+    },
+    {
+      "Name": "Pensacola Bay City Ferry",
+      "Latitude": 30.405077,
+      "Longitude": -87.2121877,
+      "Address": "750 SENDENCIA ST, PENSACOLA, FL 32502, USA",
+      "Phone": "(850) 466-3379",
+      "Website": "https://www.pensacolabaycityferry.com/",
+      "City": "Pensacola"
+    },
+    {
+      "Name": "Musée de l'industrie",
+      "Latitude": 30.4089578,
+      "Longitude": -87.2115541,
+      "Address": "200 Zaragoza St, Pensacola, FL 32502, États-Unis",
+      "Phone": "(850) 595-5985",
+      "Website": "http://historicpensacola.org/plan-your-visit/museums-properties/museum-of-industry/",
+      "City": "Pensacola"
+    },
+    {
+      "Name": "Pensacola",
+      "Latitude": 30.42130899999999,
+      "Longitude": -87.2169149,
+      "Address": "Pensacola, FL 32501, USA",
+      "Phone": "Inconnu",
+      "Website": "https://www.visitpensacola.com/",
+      "City": "Pensacola"
+    },
+    {
+      "Name": "Pensacola Lighthouse & Maritime Museum",
+      "Latitude": 30.3460366,
+      "Longitude": -87.3080825,
+      "Address": "2081 Radford Blvd, Pensacola, FL 32508, États-Unis",
+      "Phone": "(850) 393-1561",
+      "Website": "http://www.pensacolalighthouse.org/",
+      "City": "Pensacola"
+    },
+    {
+      "Name": "Splash City Adventures",
+      "Latitude": 30.4880556,
+      "Longitude": -87.2616667,
+      "Address": "6709 Pensacola Blvd, Pensacola, FL 32505, États-Unis",
+      "Phone": "(850) 505-0800",
+      "Website": "http://splashcityadventure.com/",
+      "City": "Pensacola"
+    },
+    {
+      "Name": "Pensacola Aviation Discovery Park",
+      "Latitude": 30.4715774,
+      "Longitude": -87.18137349999999,
+      "Address": "4200 Jerry L Maygarden Rd, Pensacola, FL 32504, USA",
+      "Phone": "Inconnu",
+      "Website": "Inconnu",
+      "City": "Pensacola"
+    },
+    {
+      "Name": "Séville",
+      "Latitude": 30.4094849,
+      "Longitude": -87.2097321,
+      "Address": "311 E Government St, Pensacola, FL 32502, États-Unis",
+      "Phone": "(850) 436-5670",
+      "Website": "http://www.ci.pensacola.fl.us/",
+      "City": "Pensacola"
+    },
+    {
+      "Name": "Les bluffs jumeaux",
+      "Latitude": 30.4597979,
+      "Longitude": -87.164964,
+      "Address": "3700 Scenic Hwy, Pensacola, FL 32504, États-Unis",
+      "Phone": "Inconnu",
+      "Website": "Inconnu",
+      "City": "Pensacola"
+    },
+    {
+      "Name": "Fort Pickens",
+      "Latitude": 30.327303,
+      "Longitude": -87.290514,
+      "Address": "1400 Fort Pickens Rd, Pensacola Beach, FL 32561, États-Unis",
+      "Phone": "Inconnu",
+      "Website": "https://www.nps.gov/guis/planyourvisit/fort-pickens-area.htm",
+      "City": "Pensacola"
+    }
+  ],
+  "Restaurants in Pensacola": [
+    {
+      "Name": "Taverne Hollow Frog",
+      "Average Cost": 20,
+      "Cuisines": "Américain, barbecue, restauration rapide, café, indien",
+      "Aggregate Rating": 4.3,
+      "City": "Pensacola"
+    },
+    {
+      "Name": "Restaurant Berry Patch",
+      "Average Cost": 13,
+      "Cuisines": "Boulangerie, barbecue, desserts, fruits de mer",
+      "Aggregate Rating": 4.3,
+      "City": "Pensacola"
+    },
+    {
+      "Name": "Bailey's Bar-b-who",
+      "Average Cost": 13,
+      "Cuisines": "Thé, boulangerie, méditerranéen",
+      "Aggregate Rating": 4.1,
+      "City": "Pensacola"
+    },
+    {
+      "Name": "Café du bassin versant",
+      "Average Cost": 12,
+      "Cuisines": "Chinois, barbecue, desserts",
+      "Aggregate Rating": 3.7,
+      "City": "Pensacola"
+    },
+    {
+      "Name": "Blue Point Grill",
+      "Average Cost": 75,
+      "Cuisines": "Français, indien, café, desserts",
+      "Aggregate Rating": 4,
+      "City": "Pensacola"
+    },
+    {
+      "Name": "Chicago Pizza",
+      "Average Cost": 32,
+      "Cuisines": "Pizza, Méditerranée, Fast Food",
+      "Aggregate Rating": 2.7,
+      "City": "Pensacola"
+    },
+    {
+      "Name": "Fantôme",
+      "Average Cost": 94,
+      "Cuisines": "Desserts, pizza, café, méditerranéen, fruits de mer",
+      "Aggregate Rating": 3.5,
+      "City": "Pensacola"
+    },
+    {
+      "Name": "Fruit",
+      "Average Cost": 95,
+      "Cuisines": "Thé, café, pizza, desserts",
+      "Aggregate Rating": 0,
+      "City": "Pensacola"
+    },
+    {
+      "Name": "Restaurant Kwality",
+      "Average Cost": 29,
+      "Cuisines": "Desserts, thé, français, restauration rapide, chinois",
+      "Aggregate Rating": 0,
+      "City": "Pensacola"
+    },
+    {
+      "Name": "Nukkad",
+      "Average Cost": 100,
+      "Cuisines": "Thé, café, américain, italien",
+      "Aggregate Rating": 3.6,
+      "City": "Pensacola"
+    },
+    {
+      "Name": "La cuisine du sud de l'Inde et de la Chine de Keventer",
+      "Average Cost": 32,
+      "Cuisines": "BBQ, restauration rapide",
+      "Aggregate Rating": 2.8,
+      "City": "Pensacola"
+    },
+    {
+      "Name": "Jain Coffee House",
+      "Average Cost": 41,
+      "Cuisines": "Café, indien, méditerranéen, barbecue",
+      "Aggregate Rating": 4.1,
+      "City": "Pensacola"
+    },
+    {
+      "Name": "Kathi Kabab de Nizam",
+      "Average Cost": 32,
+      "Cuisines": "Desserts, barbecue, restauration rapide, américain, méditerranéen",
+      "Aggregate Rating": 3.8,
+      "City": "Pensacola"
+    },
+    {
+      "Name": "Restaurant Kalpana",
+      "Average Cost": 36,
+      "Cuisines": "Thé, café, boulangerie, américain",
+      "Aggregate Rating": 3.2,
+      "City": "Pensacola"
+    },
+    {
+      "Name": "Œufs - Jaypee Siddharth",
+      "Average Cost": 25,
+      "Cuisines": "Café, barbecue, italien",
+      "Aggregate Rating": 3.5,
+      "City": "Pensacola"
+    },
+    {
+      "Name": "Sigot",
+      "Average Cost": 66,
+      "Cuisines": "Chinois, boulangerie, fruits de mer",
+      "Aggregate Rating": 3.1,
+      "City": "Pensacola"
+    },
+    {
+      "Name": "The Midnight Hub - C",
+      "Average Cost": 32,
+      "Cuisines": "Thé, pizza, boulangerie, barbecue, chinois",
+      "Aggregate Rating": 2.6,
+      "City": "Pensacola"
+    },
+    {
+      "Name": "Shama Muradabadi",
+      "Average Cost": 93,
+      "Cuisines": "Desserts, indien, barbecue",
+      "Aggregate Rating": 0,
+      "City": "Pensacola"
+    },
+    {
+      "Name": "Paapi Paet",
+      "Average Cost": 96,
+      "Cuisines": "Café, Méditerranée, Fast Food",
+      "Aggregate Rating": 3.3,
+      "City": "Pensacola"
+    },
+    {
+      "Name": "Jyoti Dhaba",
+      "Average Cost": 11,
+      "Cuisines": "Thé, boulangerie, restauration rapide",
+      "Aggregate Rating": 0,
+      "City": "Pensacola"
+    },
+    {
+      "Name": "Restaurant Shree Vinayaga",
+      "Average Cost": 55,
+      "Cuisines": "Desserts, thé, pizza, français, café",
+      "Aggregate Rating": 0,
+      "City": "Pensacola"
+    },
+    {
+      "Name": "Prem chinois de restauration rapide",
+      "Average Cost": 89,
+      "Cuisines": "Thé, boulangerie, méditerranéen, desserts",
+      "Aggregate Rating": 0,
+      "City": "Pensacola"
+    },
+    {
+      "Name": "Viande fraîche",
+      "Average Cost": 82,
+      "Cuisines": "Français, fruits de mer, desserts, italien",
+      "Aggregate Rating": 0,
+      "City": "Pensacola"
+    },
+    {
+      "Name": "Bouche",
+      "Average Cost": 56,
+      "Cuisines": "Mexicain, barbecue, desserts",
+      "Aggregate Rating": 0,
+      "City": "Pensacola"
+    },
+    {
+      "Name": "Shree Balaji Bhojnalaya",
+      "Average Cost": 93,
+      "Cuisines": "Restauration rapide, fruits de mer, mexicain, italien",
+      "Aggregate Rating": 0,
+      "City": "Pensacola"
+    },
+    {
+      "Name": "Cuisine krispy",
+      "Average Cost": 78,
+      "Cuisines": "Restauration rapide, boulangerie, desserts, italien",
+      "Aggregate Rating": 0,
+      "City": "Pensacola"
+    },
+    {
+      "Name": "Juste végétarien",
+      "Average Cost": 59,
+      "Cuisines": "Café, desserts, restauration rapide",
+      "Aggregate Rating": 0,
+      "City": "Pensacola"
+    },
+    {
+      "Name": "Code",
+      "Average Cost": 29,
+      "Cuisines": "Français, boulangerie, indienne, restauration rapide",
+      "Aggregate Rating": 2.5,
+      "City": "Pensacola"
+    },
+    {
+      "Name": "Service Satguru Tiffin",
+      "Average Cost": 50,
+      "Cuisines": "Américain, barbecue, fruits de mer",
+      "Aggregate Rating": 0,
+      "City": "Pensacola"
+    },
+    {
+      "Name": "Cuisine kayasth",
+      "Average Cost": 69,
+      "Cuisines": "Desserts, café, barbecue, restauration rapide, chinois, américain",
+      "Aggregate Rating": 0,
+      "City": "Pensacola"
+    },
+    {
+      "Name": "Hut du sud de l'Inde",
+      "Average Cost": 48,
+      "Cuisines": "Thé, fruits de mer, restauration rapide",
+      "Aggregate Rating": 3.4,
+      "City": "Pensacola"
+    },
+    {
+      "Name": "À emporter de Saleem",
+      "Average Cost": 37,
+      "Cuisines": "Chinois, desserts, restauration rapide, café, fruits de mer",
+      "Aggregate Rating": 2.6,
+      "City": "Pensacola"
+    },
+    {
+      "Name": "Hunger's Hub",
+      "Average Cost": 76,
+      "Cuisines": "Fast Food, Indien, barbecue, fruits de mer",
+      "Aggregate Rating": 0,
+      "City": "Pensacola"
+    },
+    {
+      "Name": "Swad e Punjab",
+      "Average Cost": 80,
+      "Cuisines": "Pizza, boulangerie, café, américain, fruits de mer",
+      "Aggregate Rating": 0,
+      "City": "Pensacola"
+    },
+    {
+      "Name": "Mithaas Sweets",
+      "Average Cost": 86,
+      "Cuisines": "Pizza, boulangerie, barbecue, café, indien, méditerranéen",
+      "Aggregate Rating": 3.1,
+      "City": "Pensacola"
+    },
+    {
+      "Name": "Le café Belgian de la fontaine",
+      "Average Cost": 89,
+      "Cuisines": "Américain, barbecue, restauration rapide",
+      "Aggregate Rating": 2.3,
+      "City": "Pensacola"
+    },
+    {
+      "Name": "Burgers d'octobre",
+      "Average Cost": 33,
+      "Cuisines": "Pizza, desserts, restauration rapide",
+      "Aggregate Rating": 4.5,
+      "City": "Pensacola"
+    },
+    {
+      "Name": "Tuyau de Gaga",
+      "Average Cost": 17,
+      "Cuisines": "Thé, desserts, pizza, barbecue",
+      "Aggregate Rating": 4.9,
+      "City": "Pensacola"
+    }
+  ],
+  "Accommodations in Pensacola": [
+    {
+      "NAME": "Charmant une chambre à coucher dans les / chinatown",
+      "price": 430,
+      "room type": "Maison entière / apt",
+      "house_rules": "Pas de parties et pas d'enfants de moins de 10 ans",
+      "minimum nights": 4,
+      "maximum occupancy": 4,
+      "review rate number": 1,
+      "city": "Pensacola"
+    },
+    {
+      "NAME": "Penthouse de luxe East Village avec terrasse privée",
+      "price": 697,
+      "room type": "Maison entière / apt",
+      "house_rules": "Pas de visiteurs",
+      "minimum nights": 2,
+      "maximum occupancy": 6,
+      "review rate number": 3,
+      "city": "Pensacola"
+    },
+    {
+      "NAME": "Appartement incroyable près du musée, des jardins et du parc!",
+      "price": 74,
+      "room type": "Maison entière / apt",
+      "house_rules": "Pas de fêtes",
+      "minimum nights": 17,
+      "maximum occupancy": 3,
+      "review rate number": 5,
+      "city": "Pensacola"
+    },
+    {
+      "NAME": "Appartement confortable de 1 chambre à 2 pâtés de maisons du métro",
+      "price": 339,
+      "room type": "Maison entière / apt",
+      "house_rules": "Pas de fêtes",
+      "minimum nights": 2,
+      "maximum occupancy": 3,
+      "review rate number": 4,
+      "city": "Pensacola"
+    },
+    {
+      "NAME": "Amazing 2BR Apartment Elev / Laundry!",
+      "price": 56,
+      "room type": "Maison entière / apt",
+      "house_rules": "Pas de parties et pas d'enfants de moins de 10 ans et pas d'animaux",
+      "minimum nights": 30,
+      "maximum occupancy": 2,
+      "review rate number": 4,
+      "city": "Pensacola"
+    },
+    {
+      "NAME": "Chic Historic Harlem Brownstone",
+      "price": 526,
+      "room type": "Maison entière / apt",
+      "house_rules": "Interdiction de fumer",
+      "minimum nights": 3,
+      "maximum occupancy": 2,
+      "review rate number": 4,
+      "city": "Pensacola"
+    },
+    {
+      "NAME": "Chambre de Brooklyn propre et confortable dans un appartement artistique",
+      "price": 514,
+      "room type": "Chambre privée",
+      "house_rules": "Pas d'animaux",
+      "minimum nights": 1,
+      "maximum occupancy": 1,
+      "review rate number": 3,
+      "city": "Pensacola"
+    },
+    {
+      "NAME": "Appartement d'Empire State Building",
+      "price": 662,
+      "room type": "Maison entière / apt",
+      "house_rules": "Pas de fumer et pas de visiteurs",
+      "minimum nights": 7,
+      "maximum occupancy": 2,
+      "review rate number": 5,
+      "city": "Pensacola"
+    },
+    {
+      "NAME": "1d privé RM à Guesthouse Manhattan",
+      "price": 378,
+      "room type": "Chambre privée",
+      "house_rules": "Pas de visiteurs et pas de fêtes",
+      "minimum nights": 1,
+      "maximum occupancy": 1,
+      "review rate number": 3,
+      "city": "Pensacola"
+    },
+    {
+      "NAME": "Appartement élégant et confortable East Village de 2 chambres",
+      "price": 1036,
+      "room type": "Maison entière / apt",
+      "house_rules": "Pas de fêtes",
+      "minimum nights": 1,
+      "maximum occupancy": 5,
+      "review rate number": 4,
+      "city": "Pensacola"
+    },
+    {
+      "NAME": "Chambre confortable",
+      "price": 92,
+      "room type": "Chambre privée",
+      "house_rules": "Pas de fêtes et pas de fumer et pas d'animaux",
+      "minimum nights": 4,
+      "maximum occupancy": 1,
+      "review rate number": 2,
+      "city": "Pensacola"
+    },
+    {
+      "NAME": "Haven 1br spacieux en duplex avec pont",
+      "price": 1050,
+      "room type": "Chambre privée",
+      "house_rules": "Pas de fêtes",
+      "minimum nights": 7,
+      "maximum occupancy": 2,
+      "review rate number": 2,
+      "city": "Pensacola"
+    }
+  ],
+  "Flight from Kansas City to Pensacola on 2022-03-27": "Il n'y a pas de vol de Kansas City à Pensacola le 2022-03-27.",
+  "Self-driving from Kansas City to Pensacola": "autonome, de Kansas City à Pensacola, durée: 14 heures 4 minutes, distance: 1 433 km, coût: 71",
+  "Taxi from Kansas City to Pensacola": "Taxi, de Kansas City à Pensacola, durée: 14 heures 4 minutes, distance: 1 433 km, coût: 1433",
+  "Flight from Pensacola to Kansas City on 2022-03-29": "Il n'y a pas de vol de Pensacola à Kansas City le 2022-03-29.",
+  "Self-driving from Pensacola to Kansas City": "Auto-conduite, de Pensacola à Kansas City, durée: 14 heures 0 min, distance: 1 447 km, coût: 72",
+  "Taxi from Pensacola to Kansas City": "Taxi, de Pensacola à Kansas City, durée: 14 heures 0 min, distance: 1 447 km, coût: 1447",
+  "Attractions in Stockton": [
+    {
+      "Name": "Musée des enfants, Stockton",
+      "Latitude": 37.9519756,
+      "Longitude": -121.2967856,
+      "Address": "402 W Weber Ave, Stockton, CA 95203, États-Unis",
+      "Phone": "(209) 465-4386",
+      "Website": "https://www.childrensmuseumstockton.org/",
+      "City": "Stockton"
+    },
+    {
+      "Name": "Musée de Haggin",
+      "Latitude": 37.9605722,
+      "Longitude": -121.3138609,
+      "Address": "1201 N Pershing Ave, Stockton, CA 95203, États-Unis",
+      "Phone": "(209) 940-6300",
+      "Website": "http://www.hagginmuseum.org/",
+      "City": "Stockton"
+    },
+    {
+      "Name": "Parc Louis",
+      "Latitude": 37.9558644,
+      "Longitude": -121.3464878,
+      "Address": "3121 Monte Diablo Ave, Stockton, CA 95203, États-Unis",
+      "Phone": "(209) 937-8206",
+      "Website": "http://www.stocktongov.com/",
+      "City": "Stockton"
+    },
+    {
+      "Name": "Château d'eau de Stockton",
+      "Latitude": 37.956838,
+      "Longitude": -121.3185108,
+      "Address": "811 Buena Vista Ave, Stockton, CA 95203, États-Unis",
+      "Phone": "Inconnu",
+      "Website": "Inconnu",
+      "City": "Stockton"
+    },
+    {
+      "Name": "Mile",
+      "Latitude": 37.9717771,
+      "Longitude": -121.30132,
+      "Address": "221 Tuxedo CT, Stockton, CA 95204, États-Unis",
+      "Phone": "(209) 623-1144",
+      "Website": "http://www.stocktonmiraremile.com/",
+      "City": "Stockton"
+    },
+    {
+      "Name": "Park Buckley Cove",
+      "Latitude": 37.9748014,
+      "Longitude": -121.3756927,
+      "Address": "Buckley Cove Way, Stockton, CA 95219, États-Unis",
+      "Phone": "(209) 937-8539",
+      "Website": "Inconnu",
+      "City": "Stockton"
+    },
+    {
+      "Name": "Temple bouddhiste wat dhammararam",
+      "Latitude": 37.9243986,
+      "Longitude": -121.2251909,
+      "Address": "3732 Carpenter Rd, Stockton, CA 95215, États-Unis",
+      "Phone": "(209) 943-2883",
+      "Website": "http://www.watdhammararambuddhist.org",
+      "City": "Stockton"
+    },
+    {
+      "Name": "Joan Darrah Promenade",
+      "Latitude": 37.95318710000001,
+      "Longitude": -121.2931709,
+      "Address": "W Weber Ave, Stockton, CA 95202, États-Unis",
+      "Phone": "Inconnu",
+      "Website": "Inconnu",
+      "City": "Stockton"
+    },
+    {
+      "Name": "Crossage du chemin de fer de Stockton Diamond",
+      "Latitude": 37.9467542,
+      "Longitude": -121.2758804,
+      "Address": "796 S Sacramento St, Stockton, CA 95205, États-Unis",
+      "Phone": "Inconnu",
+      "Website": "Inconnu",
+      "City": "Stockton"
+    },
+    {
+      "Name": "Parc américain de la Légion",
+      "Latitude": 37.9680472,
+      "Longitude": -121.3080513,
+      "Address": "Stockton, CA 95204, États-Unis",
+      "Phone": "(209) 937-8206",
+      "Website": "http://www.stocktongov.com/services/parkrec/default.html",
+      "City": "Stockton"
+    },
+    {
+      "Name": "Centre du patrimoine mexicain et galerie",
+      "Latitude": 37.9522222,
+      "Longitude": -121.2858333,
+      "Address": "111 S Sutter St, Stockton, CA 95206, États-Unis",
+      "Phone": "(209) 969-9306",
+      "Website": "http://www.mexicanheritagecenter.org/",
+      "City": "Stockton"
+    },
+    {
+      "Name": "Visiter Stockton",
+      "Latitude": 37.9528632,
+      "Longitude": -121.2937217,
+      "Address": "146 W Weber Ave, Stockton, CA 95202, États-Unis",
+      "Phone": "(209) 938-1555",
+      "Website": "http://www.visitstockton.org/",
+      "City": "Stockton"
+    },
+    {
+      "Name": "Crossage du chemin de fer du diamant supérieur supérieur",
+      "Latitude": 37.96859329999999,
+      "Longitude": -121.2693805,
+      "Address": "Stockton, CA 95205, États-Unis",
+      "Phone": "Inconnu",
+      "Website": "Inconnu",
+      "City": "Stockton"
+    },
+    {
+      "Name": "Musée de l'aviation de Stockton Field",
+      "Latitude": 37.8907085,
+      "Longitude": -121.2427084,
+      "Address": "7430 C E Dixon St, Stockton, CA 95206, États-Unis",
+      "Phone": "(209) 982-0273",
+      "Website": "http://www.stocktonfieldmuseum.org/",
+      "City": "Stockton"
+    },
+    {
+      "Name": "Sousa Park",
+      "Latitude": 37.9576352,
+      "Longitude": -121.2487092,
+      "Address": "2829 Yellowstone Ave, Stockton, CA 95205, États-Unis",
+      "Phone": "(209) 937-8206",
+      "Website": "http://www.stocktongov.com/government/departments/publicworks/contactus.html",
+      "City": "Stockton"
+    },
+    {
+      "Name": "Stockton Arena",
+      "Latitude": 37.9561651,
+      "Longitude": -121.2960735,
+      "Address": "248 W Fremont St, Stockton, CA 95203, États-Unis",
+      "Phone": "(209) 373-1400",
+      "Website": "http://stocktonlive.com/",
+      "City": "Stockton"
+    },
+    {
+      "Name": "Parc régional de Shumway Oak Grove",
+      "Latitude": 38.0574996,
+      "Longitude": -121.3638536,
+      "Address": "4520 W Huit Mile Rd, Stockton, CA 95209, États-Unis",
+      "Phone": "(209) 953-8800",
+      "Website": "http://www.sjparks.com/parks/oak-grove-gional-park.aspx",
+      "City": "Stockton"
+    },
+    {
+      "Name": "Garrigan",
+      "Latitude": 38.04405,
+      "Longitude": -121.36532,
+      "Address": "3690 Iron Canyon Cir, Stockton, CA 95209, États-Unis",
+      "Phone": "(209) 937-8411",
+      "Website": "http://www.stocktongov.com/government/departments/publicworks/contactus.html",
+      "City": "Stockton"
+    },
+    {
+      "Name": "Gibbons Park",
+      "Latitude": 38.0218141,
+      "Longitude": -121.3371861,
+      "Address": "Stockton, CA 95209, États-Unis",
+      "Phone": "Inconnu",
+      "Website": "Inconnu",
+      "City": "Stockton"
+    },
+    {
+      "Name": "Musée philippin américain de la Société historique nationale",
+      "Latitude": 37.9545233,
+      "Longitude": -121.2865715,
+      "Address": "337 E Weber Ave, Stockton, CA 95202, États-Unis",
+      "Phone": "(209) 932-9037",
+      "Website": "http://fanhsmuseum.com/",
+      "City": "Stockton"
+    }
+  ],
+  "Restaurants in Stockton": [
+    {
+      "Name": "Choo Choo Eastside",
+      "Average Cost": 40,
+      "Cuisines": "Thé, chinois, boulangerie",
+      "Aggregate Rating": 3.9,
+      "City": "Stockton"
+    },
+    {
+      "Name": "Restaurant italien de Biaggi",
+      "Average Cost": 20,
+      "Cuisines": "Français, boulangerie, café, fruits de mer",
+      "Aggregate Rating": 4.1,
+      "City": "Stockton"
+    },
+    {
+      "Name": "Famille de sushi",
+      "Average Cost": 72,
+      "Cuisines": "Boulangerie, pizza, café",
+      "Aggregate Rating": 3.6,
+      "City": "Stockton"
+    },
+    {
+      "Name": "Vingt-quatre sept",
+      "Average Cost": 92,
+      "Cuisines": "Desserts, thé, italien, barbecue, restauration rapide, américaine",
+      "Aggregate Rating": 3.4,
+      "City": "Stockton"
+    },
+    {
+      "Name": "Frères jumeaux",
+      "Average Cost": 32,
+      "Cuisines": "Thé, pizza, français, boulangerie, fruits de mer",
+      "Aggregate Rating": 0,
+      "City": "Stockton"
+    },
+    {
+      "Name": "Dimse & Co.",
+      "Average Cost": 40,
+      "Cuisines": "Chinois, boulangerie, barbecue, fruits de mer",
+      "Aggregate Rating": 3.9,
+      "City": "Stockton"
+    },
+    {
+      "Name": "Pizza mécanique",
+      "Average Cost": 47,
+      "Cuisines": "Pizza, barbecue, Méditerranée",
+      "Aggregate Rating": 3.5,
+      "City": "Stockton"
+    },
+    {
+      "Name": "Barista",
+      "Average Cost": 77,
+      "Cuisines": "Café, mexicain, boulangerie, fruits de mer",
+      "Aggregate Rating": 0,
+      "City": "Stockton"
+    },
+    {
+      "Name": "Hôtel Radhakrishna",
+      "Average Cost": 63,
+      "Cuisines": "Desserts, italien, boulangerie, restauration rapide, fruits de mer",
+      "Aggregate Rating": 3.5,
+      "City": "Stockton"
+    },
+    {
+      "Name": "High Street Kitchen & Bar",
+      "Average Cost": 100,
+      "Cuisines": "Desserts, thé, mexicain, barbecue, restauration rapide, méditerranée",
+      "Aggregate Rating": 2.9,
+      "City": "Stockton"
+    },
+    {
+      "Name": "Muffins",
+      "Average Cost": 26,
+      "Cuisines": "Fruits de mer, desserts, italien",
+      "Aggregate Rating": 3.5,
+      "City": "Stockton"
+    },
+    {
+      "Name": "Chine continentale",
+      "Average Cost": 38,
+      "Cuisines": "Thé, barbecue, méditerranéen",
+      "Aggregate Rating": 3.7,
+      "City": "Stockton"
+    },
+    {
+      "Name": "Pizza sur le gré",
+      "Average Cost": 81,
+      "Cuisines": "Boulangerie, américaine, restauration rapide",
+      "Aggregate Rating": 3.3,
+      "City": "Stockton"
+    },
+    {
+      "Name": "Aggarwal Sweet Corner & Restaurant",
+      "Average Cost": 33,
+      "Cuisines": "Thé, fruits de mer, pizza, italien",
+      "Aggregate Rating": 2.6,
+      "City": "Stockton"
+    },
+    {
+      "Name": "Break Fast Junction",
+      "Average Cost": 46,
+      "Cuisines": "Restauration rapide, pizza, boulangerie, italien",
+      "Aggregate Rating": 0,
+      "City": "Stockton"
+    },
+    {
+      "Name": "Doigt Limious",
+      "Average Cost": 50,
+      "Cuisines": "Desserts, thé, pizza, italien, café",
+      "Aggregate Rating": 3.4,
+      "City": "Stockton"
+    },
+    {
+      "Name": "Adda végétarien",
+      "Average Cost": 85,
+      "Cuisines": "Desserts, américain, barbecue, restauration rapide",
+      "Aggregate Rating": 3.4,
+      "City": "Stockton"
+    },
+    {
+      "Name": "La feuille d'or",
+      "Average Cost": 34,
+      "Cuisines": "Thé, français, chinois, restauration rapide",
+      "Aggregate Rating": 3,
+      "City": "Stockton"
+    },
+    {
+      "Name": "Le tandoor bleu",
+      "Average Cost": 16,
+      "Cuisines": "Café, américain, fruits de mer",
+      "Aggregate Rating": 2.6,
+      "City": "Stockton"
+    },
+    {
+      "Name": "Aayush Food Plaza",
+      "Average Cost": 70,
+      "Cuisines": "Thé, français, pizza, italien",
+      "Aggregate Rating": 2.9,
+      "City": "Stockton"
+    },
+    {
+      "Name": "Nand Bhai Chholey Bhature",
+      "Average Cost": 33,
+      "Cuisines": "Thé, boulangerie, barbecue, américain, fruits de mer",
+      "Aggregate Rating": 0,
+      "City": "Stockton"
+    },
+    {
+      "Name": "Punjabi's Eating Hub",
+      "Average Cost": 45,
+      "Cuisines": "Thé, chinois, boulangerie, desserts",
+      "Aggregate Rating": 3.3,
+      "City": "Stockton"
+    },
+    {
+      "Name": "Vingt-quatre sept",
+      "Average Cost": 70,
+      "Cuisines": "Desserts, thé, restauration rapide, indienne, méditerranéen",
+      "Aggregate Rating": 0,
+      "City": "Stockton"
+    },
+    {
+      "Name": "Métro",
+      "Average Cost": 58,
+      "Cuisines": "Café, mexicain, boulangerie, restauration rapide",
+      "Aggregate Rating": 2.6,
+      "City": "Stockton"
+    },
+    {
+      "Name": "Gola grésilleurs",
+      "Average Cost": 45,
+      "Cuisines": "Thé, Méditerranée, desserts, italien",
+      "Aggregate Rating": 3.3,
+      "City": "Stockton"
+    },
+    {
+      "Name": "Zaika de Dilli 6",
+      "Average Cost": 70,
+      "Cuisines": "Desserts, pizza, restauration rapide, indienne, fruits de mer",
+      "Aggregate Rating": 0,
+      "City": "Stockton"
+    },
+    {
+      "Name": "Wok en feu",
+      "Average Cost": 26,
+      "Cuisines": "Desserts, thé, italien, barbecue, restauration rapide, chinois",
+      "Aggregate Rating": 3.7,
+      "City": "Stockton"
+    }
+  ],
+  "Accommodations in Stockton": [
+    {
+      "NAME": "Bénéfice, escapade parfaite à New York!",
+      "price": 607,
+      "room type": "Maison entière / apt",
+      "house_rules": "Pas de parties et pas d'enfants de moins de 10 ans",
+      "minimum nights": 2,
+      "maximum occupancy": 6,
+      "review rate number": 4,
+      "city": "Stockton"
+    },
+    {
+      "NAME": "Superbe chambre Brooklyn avec décor de luxe",
+      "price": 920,
+      "room type": "Chambre privée",
+      "house_rules": "Pas d'enfants de moins de 10 ans et pas d'animaux et pas de fumer",
+      "minimum nights": 2,
+      "maximum occupancy": 2,
+      "review rate number": 4,
+      "city": "Stockton"
+    },
+    {
+      "NAME": "Salle moderne privée (long terme 1 mois ou plus)",
+      "price": 486,
+      "room type": "Chambre privée",
+      "house_rules": "Pas de fêtes",
+      "minimum nights": 2,
+      "maximum occupancy": 1,
+      "review rate number": 2,
+      "city": "Stockton"
+    },
+    {
+      "NAME": "Spacieuse 2 bdr Brooklyn dort 8 ans!",
+      "price": 1072,
+      "room type": "Maison entière / apt",
+      "house_rules": "Pas de visiteurs",
+      "minimum nights": 2,
+      "maximum occupancy": 5,
+      "review rate number": 3,
+      "city": "Stockton"
+    },
+    {
+      "NAME": "Léchard de Williamsburg Loft avec terrasse privée",
+      "price": 950,
+      "room type": "Maison entière / apt",
+      "house_rules": "Pas d'animaux et pas de visiteurs et pas d'enfants de moins de 10 ans",
+      "minimum nights": 5,
+      "maximum occupancy": 2,
+      "review rate number": 5,
+      "city": "Stockton"
+    },
+    {
+      "NAME": "Greenpoint Oasis",
+      "price": 170,
+      "room type": "Maison entière / apt",
+      "house_rules": "Pas d'enfants de moins de 10 ans",
+      "minimum nights": 365,
+      "maximum occupancy": 3,
+      "review rate number": 3,
+      "city": "Stockton"
+    },
+    {
+      "NAME": "APT privé 2BR / 1BATH / Cuisine / Parking dans notre maison",
+      "price": 420,
+      "room type": "Maison entière / apt",
+      "house_rules": "Pas d'animaux",
+      "minimum nights": 1,
+      "maximum occupancy": 4,
+      "review rate number": 2,
+      "city": "Stockton"
+    },
+    {
+      "NAME": "Ma maison de première chambre premium dans l'Upper East Side",
+      "price": 444,
+      "room type": "Maison entière / apt",
+      "house_rules": "Pas d'animaux",
+      "minimum nights": 3,
+      "maximum occupancy": 2,
+      "review rate number": 4,
+      "city": "Stockton"
+    },
+    {
+      "NAME": "Meublé une chambre à Midtown West.",
+      "price": 279,
+      "room type": "Maison entière / apt",
+      "house_rules": "Pas de fêtes",
+      "minimum nights": 30,
+      "maximum occupancy": 3,
+      "review rate number": 2,
+      "city": "Stockton"
+    },
+    {
+      "NAME": "Chambre privée et salle de bain dans un appartement brillant",
+      "price": 1081,
+      "room type": "Chambre privée",
+      "house_rules": "Pas de fumer et pas d'enfants de moins de 10 ans",
+      "minimum nights": 2,
+      "maximum occupancy": 1,
+      "review rate number": 1,
+      "city": "Stockton"
+    },
+    {
+      "NAME": "Full confortable au milieu de Manhattan!",
+      "price": 455,
+      "room type": "Maison entière / apt",
+      "house_rules": "Pas de fêtes",
+      "minimum nights": 4,
+      "maximum occupancy": 3,
+      "review rate number": 1,
+      "city": "Stockton"
+    },
+    {
+      "NAME": "Chambre confortable avec fort",
+      "price": 484,
+      "room type": "Chambre privée",
+      "house_rules": "Pas de fêtes",
+      "minimum nights": 3,
+      "maximum occupancy": 1,
+      "review rate number": 2,
+      "city": "Stockton"
+    }
+  ],
+  "Flight from Las Vegas to Stockton on 2022-03-03": [
+    {
+      "Flight Number": "F3576711",
+      "Price": 96,
+      "DepTime": "06:01",
+      "ArrTime": "07:28",
+      "ActualElapsedTime": "1 heures 27 minutes",
+      "FlightDate": "2022-03-03",
+      "OriginCityName": "Las Vegas",
+      "DestCityName": "Stockton",
+      "Distance": 359
+    },
+    {
+      "Flight Number": "F3580830",
+      "Price": 91,
+      "DepTime": "20:08",
+      "ArrTime": "21:30",
+      "ActualElapsedTime": "1 heures 22 minutes",
+      "FlightDate": "2022-03-03",
+      "OriginCityName": "Las Vegas",
+      "DestCityName": "Stockton",
+      "Distance": 359
+    }
+  ],
+  "Self-driving from Las Vegas to Stockton": "auto-conducteur, de Las Vegas à Stockton, durée: 7 heures 46 minutes, distance: 835 km, coût: 41",
+  "Taxi from Las Vegas to Stockton": "Taxi, de Las Vegas à Stockton, durée: 7 heures 46 minutes, distance: 835 km, coût: 835",
+  "Flight from Stockton to Las Vegas on 2022-03-05": [
+    {
+      "Flight Number": "F3576850",
+      "Price": 165,
+      "DepTime": "13:42",
+      "ArrTime": "15:03",
+      "ActualElapsedTime": "1 heures 21 minutes",
+      "FlightDate": "2022-03-05",
+      "OriginCityName": "Stockton",
+      "DestCityName": "Las Vegas",
+      "Distance": 359
+    }
+  ],
+  "Self-driving from Stockton to Las Vegas": "Auto-conduite, de Stockton à Las Vegas, durée: 7 heures 50 minutes, distance: 836 km, coût: 41",
+  "Taxi from Stockton to Las Vegas": "Taxi, de Stockton à Las Vegas, durée: 7 heures 50 minutes, distance: 836 km, coût: 836",
+  "Attractions in Louisville": [
+    {
+      "Name": "Louisville Mega Cavern",
+      "Latitude": 38.2012259,
+      "Longitude": -85.703929,
+      "Address": "1841 Taylor Ave, Louisville, KY 40213, États-Unis",
+      "Phone": "(877) 614-6342",
+      "Website": "https://louisvillemegacavern.com/",
+      "City": "Louisville"
+    },
+    {
+      "Name": "Louisville Slugger Museum & Factory",
+      "Latitude": 38.25713559999999,
+      "Longitude": -85.7639796,
+      "Address": "800 W Main St, Louisville, KY 40202, États-Unis",
+      "Phone": "(877) 775-8443",
+      "Website": "http://www.slughermuseum.com/",
+      "City": "Louisville"
+    },
+    {
+      "Name": "Kentucky Science Center",
+      "Latitude": 38.2576145,
+      "Longitude": -85.76265699999999,
+      "Address": "727 W Main St, Louisville, KY 40202, États-Unis",
+      "Phone": "(502) 561-6100",
+      "Website": "http://www.kysciencecenter.org/",
+      "City": "Louisville"
+    },
+    {
+      "Name": "Zoo de Louisville",
+      "Latitude": 38.2057299,
+      "Longitude": -85.7071264,
+      "Address": "1100 Trevilian Way, Louisville, KY 40213, États-Unis",
+      "Phone": "(502) 459-2181",
+      "Website": "https://louisvillezoo.org/",
+      "City": "Louisville"
+    },
+    {
+      "Name": "Frazier History Museum",
+      "Latitude": 38.2577529,
+      "Longitude": -85.7644972,
+      "Address": "829 W Main St, Louisville, KY 40202, États-Unis",
+      "Phone": "(502) 753-5663",
+      "Website": "http://www.fraziermuseum.org/",
+      "City": "Louisville"
+    },
+    {
+      "Name": "Le sanatorium de Waverly Hills",
+      "Latitude": 38.1301221,
+      "Longitude": -85.8416929,
+      "Address": "4400 Paralee DR, Louisville, KY 40272, États-Unis",
+      "Phone": "(502) 690-7880",
+      "Website": "http://www.therealwaverlyhills.com/",
+      "City": "Louisville"
+    },
+    {
+      "Name": "Kentucky Derby Museum",
+      "Latitude": 38.2054621,
+      "Longitude": -85.7710699,
+      "Address": "704 Central Ave, Louisville, KY 40208, États-Unis",
+      "Phone": "(502) 637-1111",
+      "Website": "http://www.derbymuseum.org/",
+      "City": "Louisville"
+    },
+    {
+      "Name": "Parc Cherokee",
+      "Latitude": 38.2399656,
+      "Longitude": -85.6993663,
+      "Address": "745 Cochran Hill Rd, Louisville, KY 40206, États-Unis",
+      "Phone": "(502) 574-7275",
+      "Website": "https://louisvilleky.gov/government/parks/park-list/cherokee-park",
+      "City": "Louisville"
+    },
+    {
+      "Name": "Trolley de 'Ville",
+      "Latitude": 38.2580913,
+      "Longitude": -85.75648559999999,
+      "Address": "140 N Fourth St, Louisville, KY 40202, États-Unis",
+      "Phone": "(502) 939-3415",
+      "Website": "https://trolleydeville.com/",
+      "City": "Louisville"
+    },
+    {
+      "Name": "Churchill Downs",
+      "Latitude": 38.2037252,
+      "Longitude": -85.77239879999999,
+      "Address": "700 Central Ave, Louisville, KY 40208, États-Unis",
+      "Phone": "(502) 636-4400",
+      "Website": "http://www.churchilldowns.com/",
+      "City": "Louisville"
+    },
+    {
+      "Name": "Speed ​​Art Museum",
+      "Latitude": 38.2183706,
+      "Longitude": -85.7609428,
+      "Address": "2035 S 3rd St, Louisville, KY 40208, États-Unis",
+      "Phone": "(502) 634-2700",
+      "Website": "http://www.peedmuseum.org/",
+      "City": "Louisville"
+    },
+    {
+      "Name": "Parc de mer",
+      "Latitude": 38.26073890000001,
+      "Longitude": -85.74260129999999,
+      "Address": "129 River Rd, Louisville, KY 40202, États-Unis",
+      "Phone": "(502) 574-3768",
+      "Website": "https://ourwaterfront.org/",
+      "City": "Louisville"
+    },
+    {
+      "Name": "Lumières sous Louisville",
+      "Latitude": 38.2015141,
+      "Longitude": -85.7040882,
+      "Address": "1841 Taylor Ave, Louisville, KY 40213, États-Unis",
+      "Phone": "(877) 614-6342",
+      "Website": "http://lightsunderlouisville.com/",
+      "City": "Louisville"
+    },
+    {
+      "Name": "Musée de la maison Conrad-Caldwell",
+      "Latitude": 38.2291479,
+      "Longitude": -85.76342230000002,
+      "Address": "1402 St James CT, Louisville, KY 40208, États-Unis",
+      "Phone": "(502) 636-5023",
+      "Website": "http://conrad-caldwell.org/",
+      "City": "Louisville"
+    },
+    {
+      "Name": "Centre nature de Louisville",
+      "Latitude": 38.2096492,
+      "Longitude": -85.7111025,
+      "Address": "3745 Illinois Ave, Louisville, KY 40213, USA",
+      "Phone": "(502) 458-1328",
+      "Website": "http://louisvillenaturcecentre.org/",
+      "City": "Louisville"
+    },
+    {
+      "Name": "Bosquet",
+      "Latitude": 38.28645400000001,
+      "Longitude": -85.66138699999999,
+      "Address": "561 Blankenbaker LN, Louisville, KY 40207, États-Unis",
+      "Phone": "(502) 897-9845",
+      "Website": "http://www.locustgrove.org/",
+      "City": "Louisville"
+    },
+    {
+      "Name": "Centre Muhammad Ali",
+      "Latitude": 38.25847619999999,
+      "Longitude": -85.75980480000001,
+      "Address": "144 N 6th St, Louisville, KY 40202, États-Unis",
+      "Phone": "(502) 584-9254",
+      "Website": "https://alicenter.org/",
+      "City": "Louisville"
+    },
+    {
+      "Name": "Parc iroquois",
+      "Latitude": 38.1608222,
+      "Longitude": -85.7803059,
+      "Address": "2120 Rundill Rd, Louisville, KY 40214, États-Unis",
+      "Phone": "(502) 363-7766",
+      "Website": "https://louisvilleky.gov/government/parks/park-list/iroquois-park",
+      "City": "Louisville"
+    },
+    {
+      "Name": "Nœud de Louisville",
+      "Latitude": 38.257531,
+      "Longitude": -85.7656208,
+      "Address": "8 W Main St, Louisville, KY 40202, États-Unis",
+      "Phone": "Inconnu",
+      "Website": "Inconnu",
+      "City": "Louisville"
+    },
+    {
+      "Name": "Musée d'art contemporain KMAC",
+      "Latitude": 38.257524,
+      "Longitude": -85.762142,
+      "Address": "715 W Main St, Louisville, KY 40202, États-Unis",
+      "Phone": "(502) 589-0102",
+      "Website": "http://www.kmacmuseum.org/",
+      "City": "Louisville"
+    }
+  ],
+  "Restaurants in Louisville": [
+    {
+      "Name": "Buffalo Wild Wings",
+      "Average Cost": 22,
+      "Cuisines": "Thé, boulangerie, barbecue, restauration rapide, américaine",
+      "Aggregate Rating": 3.4,
+      "City": "Louisville"
+    },
+    {
+      "Name": "Magnolias en acier",
+      "Average Cost": 26,
+      "Cuisines": "Italien, mexicain, restauration rapide, café, fruits de mer",
+      "Aggregate Rating": 3.8,
+      "City": "Louisville"
+    },
+    {
+      "Name": "M. Idli Xpress",
+      "Average Cost": 51,
+      "Cuisines": "Café, Méditerranée, Fast Food",
+      "Aggregate Rating": 2.6,
+      "City": "Louisville"
+    },
+    {
+      "Name": "Bal Ji Rasoi",
+      "Average Cost": 77,
+      "Cuisines": "Fruits de mer, boulangerie, italien",
+      "Aggregate Rating": 0,
+      "City": "Louisville"
+    },
+    {
+      "Name": "Sangam Sweets",
+      "Average Cost": 18,
+      "Cuisines": "Boulangerie, pizza, café, desserts",
+      "Aggregate Rating": 2.5,
+      "City": "Louisville"
+    },
+    {
+      "Name": "Coin de petit-déjeuner",
+      "Average Cost": 46,
+      "Cuisines": "Thé, pizza, français, boulangerie, café",
+      "Aggregate Rating": 3.1,
+      "City": "Louisville"
+    },
+    {
+      "Name": "Rara Dragon",
+      "Average Cost": 21,
+      "Cuisines": "Thé, café, méditerranéen, restauration rapide",
+      "Aggregate Rating": 0,
+      "City": "Louisville"
+    },
+    {
+      "Name": "Restaurant QD",
+      "Average Cost": 60,
+      "Cuisines": "Mexicain, boulangerie, restauration rapide, café, fruits de mer",
+      "Aggregate Rating": 3.9,
+      "City": "Louisville"
+    },
+    {
+      "Name": "Collations et plus",
+      "Average Cost": 59,
+      "Cuisines": "Thé, pizza, italien, café, indien, fruits de mer",
+      "Aggregate Rating": 0,
+      "City": "Louisville"
+    },
+    {
+      "Name": "McDonald's",
+      "Average Cost": 33,
+      "Cuisines": "Thé, français, pizza, italien",
+      "Aggregate Rating": 3.2,
+      "City": "Louisville"
+    },
+    {
+      "Name": "Boulangerie Janta",
+      "Average Cost": 48,
+      "Cuisines": "Thé, restauration rapide, méditerranéen, italien",
+      "Aggregate Rating": 3.6,
+      "City": "Louisville"
+    },
+    {
+      "Name": "Le paradis des bonbons d'Aggarwal",
+      "Average Cost": 60,
+      "Cuisines": "Thé, français, boulangerie, café",
+      "Aggregate Rating": 2.7,
+      "City": "Louisville"
+    },
+    {
+      "Name": "Vikrant Cafe",
+      "Average Cost": 86,
+      "Cuisines": "Thé, boulangerie, restauration rapide, méditerranéen, fruits de mer",
+      "Aggregate Rating": 3.3,
+      "City": "Louisville"
+    },
+    {
+      "Name": "Shri Bankey Bihari Brajwasi Rasgulle Wala",
+      "Average Cost": 79,
+      "Cuisines": "Thé, café",
+      "Aggregate Rating": 3.5,
+      "City": "Louisville"
+    },
+    {
+      "Name": "Vaishno chat bhandar",
+      "Average Cost": 48,
+      "Cuisines": "Café, boulangerie, fruits de mer",
+      "Aggregate Rating": 3.9,
+      "City": "Louisville"
+    },
+    {
+      "Name": "Zaffran",
+      "Average Cost": 12,
+      "Cuisines": "Desserts, thé, boulangerie, restauration rapide, chinois",
+      "Aggregate Rating": 4.5,
+      "City": "Louisville"
+    },
+    {
+      "Name": "Orange Cafe & Restaurant",
+      "Average Cost": 83,
+      "Cuisines": "Desserts, thé, pizza, mexicain, barbecue",
+      "Aggregate Rating": 3.1,
+      "City": "Louisville"
+    },
+    {
+      "Name": "Nouveau Gaurav Dhaba",
+      "Average Cost": 97,
+      "Cuisines": "Desserts, barbecue, indien, méditerranéen, fruits de mer",
+      "Aggregate Rating": 0,
+      "City": "Louisville"
+    },
+    {
+      "Name": "Peshawari",
+      "Average Cost": 74,
+      "Cuisines": "Thé, pizza, barbecue, desserts",
+      "Aggregate Rating": 3.6,
+      "City": "Louisville"
+    },
+    {
+      "Name": "Les héros de minuit",
+      "Average Cost": 35,
+      "Cuisines": "Desserts, pizza, mexicain, américain, fruits de mer",
+      "Aggregate Rating": 3.6,
+      "City": "Louisville"
+    },
+    {
+      "Name": "Chocolace par Wedcraft",
+      "Average Cost": 22,
+      "Cuisines": "Fast Food, français, indien, fruits de mer",
+      "Aggregate Rating": 0,
+      "City": "Louisville"
+    },
+    {
+      "Name": "Restaurant Break Point de Gayatri",
+      "Average Cost": 39,
+      "Cuisines": "Fruits de mer, boulangerie, desserts, restauration rapide",
+      "Aggregate Rating": 3.1,
+      "City": "Louisville"
+    },
+    {
+      "Name": "Restaurant familial de Prerna",
+      "Average Cost": 70,
+      "Cuisines": "Café, américain, méditerranéen, fruits de mer",
+      "Aggregate Rating": 0,
+      "City": "Louisville"
+    },
+    {
+      "Name": "Kenny Rogers Roasters",
+      "Average Cost": 17,
+      "Cuisines": "Thé, pizza, italien, café, indien, fruits de mer",
+      "Aggregate Rating": 3.7,
+      "City": "Louisville"
+    },
+    {
+      "Name": "F-all (nourriture pour tous)",
+      "Average Cost": 42,
+      "Cuisines": "Thé, pizza, mexicain, boulangerie, restauration rapide",
+      "Aggregate Rating": 3.4,
+      "City": "Louisville"
+    },
+    {
+      "Name": "Domino's Pizza",
+      "Average Cost": 100,
+      "Cuisines": "Desserts, thé, boulangerie, Méditerranée, fruits de mer",
+      "Aggregate Rating": 2.4,
+      "City": "Louisville"
+    },
+    {
+      "Name": "Pêcheur",
+      "Average Cost": 73,
+      "Cuisines": "Chinois, mexicain, boulangerie, café",
+      "Aggregate Rating": 4,
+      "City": "Louisville"
+    },
+    {
+      "Name": "Bistrot licorish",
+      "Average Cost": 91,
+      "Cuisines": "Pizza, italien, français, restauration rapide, café, fruits de mer",
+      "Aggregate Rating": 4.6,
+      "City": "Louisville"
+    }
+  ],
+  "Accommodations in Louisville": [
+    {
+      "NAME": "Grande chambre avec salle de bain et balcon en BK!",
+      "price": 1123,
+      "room type": "Chambre privée",
+      "house_rules": "Pas de fêtes",
+      "minimum nights": 1,
+      "maximum occupancy": 2,
+      "review rate number": 4,
+      "city": "Louisville"
+    },
+    {
+      "NAME": "Belle chambre à l'autre, Washington Heights",
+      "price": 69,
+      "room type": "Chambre privée",
+      "house_rules": "Pas de visiteurs",
+      "minimum nights": 7,
+      "maximum occupancy": 2,
+      "review rate number": 2,
+      "city": "Louisville"
+    },
+    {
+      "NAME": "Bdrm confortable. Astoria, Queens. 10 min à Manhattan.",
+      "price": 1177,
+      "room type": "Chambre privée",
+      "house_rules": "Pas de fêtes et pas d'animaux",
+      "minimum nights": 2,
+      "maximum occupancy": 1,
+      "review rate number": 3,
+      "city": "Louisville"
+    },
+    {
+      "NAME": "Oasis artistique du bas est du bas de l'Est",
+      "price": 598,
+      "room type": "Chambre privée",
+      "house_rules": "Pas d'animaux et pas d'enfants de moins de 10 ans",
+      "minimum nights": 5,
+      "maximum occupancy": 2,
+      "review rate number": 5,
+      "city": "Louisville"
+    },
+    {
+      "NAME": "Chambre spacieuse et salle de bain privée dans la maison de ville de Harlem",
+      "price": 805,
+      "room type": "Chambre privée",
+      "house_rules": "Pas de visiteurs et pas de fêtes et pas de fumer",
+      "minimum nights": 2,
+      "maximum occupancy": 1,
+      "review rate number": 2,
+      "city": "Louisville"
+    },
+    {
+      "NAME": "Élégant apte au cœur de Greenwich Village",
+      "price": 796,
+      "room type": "Maison entière / apt",
+      "house_rules": "Pas de fêtes",
+      "minimum nights": 30,
+      "maximum occupancy": 6,
+      "review rate number": 5,
+      "city": "Louisville"
+    },
+    {
+      "NAME": "Ma chambre / café et bagel",
+      "price": 815,
+      "room type": "Chambre privée",
+      "house_rules": "Pas d'enfants de moins de 10 ans et pas de visiteurs",
+      "minimum nights": 6,
+      "maximum occupancy": 1,
+      "review rate number": 4,
+      "city": "Louisville"
+    },
+    {
+      "NAME": "Spacieux 2 Br Clinton Hill Apartment-Brooklyn, NY",
+      "price": 823,
+      "room type": "Maison entière / apt",
+      "house_rules": "Pas d'animaux",
+      "minimum nights": 1,
+      "maximum occupancy": 6,
+      "review rate number": 2,
+      "city": "Louisville"
+    }
+  ],
+  "Flight from New Orleans to Louisville on 2022-03-12": "Il n'y a pas de vol de la Nouvelle-Orléans à Louisville le 2022-03-12.",
+  "Self-driving from New Orleans to Louisville": "autonome, de la Nouvelle-Orléans à Louisville, durée: 10 heures 14 minutes, distance: 1 136 km, coût: 56",
+  "Taxi from New Orleans to Louisville": "Taxi, de la Nouvelle-Orléans à Louisville, durée: 10 heures 14 minutes, distance: 1 136 km, coût: 1136",
+  "Flight from Louisville to New Orleans on 2022-03-14": "Il n'y a pas de vol de Louisville à la Nouvelle-Orléans le 2022-03-14.",
+  "Self-driving from Louisville to New Orleans": "Auto-conduite, de Louisville à la Nouvelle-Orléans, durée: 10 heures 15 minutes, distance: 1 139 km, coût: 56",
+  "Taxi from Louisville to New Orleans": "Taxi, de Louisville à la Nouvelle-Orléans, durée: 10 heures 15 minutes, distance: 1 139 km, coût: 1139"
+}
